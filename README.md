@@ -6,6 +6,8 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: No such person found.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Integer003)](https://github.com/anuraghazra/github-readme-stats)
+
 <!---
 Integer003/Integer003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
