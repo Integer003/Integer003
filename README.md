@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Integer003, a sophomore student at Tsinghua University
+- 👋 Hi, I’m @Integer003, a junior student at IIIS, Tsinghua University
 - 👀 I’m interested in AI and physics
 - 🌱 I’m currently learning AI related stuff
 - 💞️ If you have any suggestions for me, I would be really happy to hear them.
