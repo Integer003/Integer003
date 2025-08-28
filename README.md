@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Integer003, a junior student at IIIS, Tsinghua University
 - 👀 I’m interested in AI and physics
-- 🌱 I’m currently learning AI related stuff
+- 🌱 I’m currently doing research relate to Embodied AI
 - 💞️ If you have any suggestions for me, I would be really happy to hear them.
 - 📫 How to reach me: via email txc23@mails.tsinghua.edu.cn
 - 😄 Pronouns: he/him
