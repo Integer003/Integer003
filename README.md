@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Xiangchen Tian (@Integer003), a junior student at [IIIS (Yao Class)](https://iiis.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/en/)
 - 👀 I’m interested in Embodied AI and physics ([IPhO 2023](https://ipho-unofficial.org/timeline/2023/individual) ranked 2nd in the world)
-- 🌱 I’m currently doing research relate to Embodied AI
+- 🌱 I’m currently doing research relate to real-world RL/IL, VLA.
 - 💞️ If you have any suggestions for me, I would be really happy to hear them.
 - 📫 How to reach me: via email txc23@mails.tsinghua.edu.cn
 - 😄 Pronouns: he/him
